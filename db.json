@@ -1,0 +1,238 @@
+{
+    "results":[
+        {
+            "question": "Seinfeld is often described as a show about",
+            "correct_answer": "Nothing",
+            "incorrect_answers": [
+                "Psychopaths",
+                "New York",
+                "Philosophy"
+            ]
+        },
+        {
+            "question": "Who is Jerry's nemesis?",
+            "correct_answer": "Newman",
+            "incorrect_answers": [
+                "Negan",
+                "Lippman",
+                "Dugan"
+            ]
+        },
+        {
+            "question": "What restaurant do Jerry and friends frequently visit?",
+            "correct_answer": "Monk's Cafe",
+            "incorrect_answers": [
+                "Canter's Deli",
+                "Katz's Deli",
+                "Dom's Cafe"
+            ]
+        },
+        {
+            "question": "What does George want to name his firstborn child?",
+            "correct_answer": "Seven",
+            "incorrect_answers": [
+                "Blue",
+                "Yankee",
+                "Six"
+            ]
+        },
+        {
+            "question": "In \"The Pony Remark\" where was Manya an immigrant from?",
+            "correct_answer": "Poland",
+            "incorrect_answers": [
+                "Germany",
+                "Italy",
+                "Ireland"
+            ]
+        },
+        {
+            "question": "In \"The Heart Attack\", Elaine interprets Jerry's scrawled note as what?",
+            "correct_answer": "Don't mess with Johnny",
+            "incorrect_answers": [
+                "Fix me some Halibut",
+                "Salami Salami Turkey",
+                "Flaming globes of Sigmond"
+            ]
+        },
+        {
+            "question": "In \"The Robbery\", what is the one flaw in Jerry's door's lock?",
+            "correct_answer": "The door must be closed",
+            "incorrect_answers": [
+                "The lock must be turned in a certain way",
+                "The door needs to be closed gently",
+                "The lock doesn't work"
+            ]
+        },
+        {
+            "question": "In \"The Cafe\", what is the first score Elaine gets on the I.Q. test?",
+            "correct_answer": "85",
+            "incorrect_answers": [
+                "95",
+                "100",
+                "151"
+            ]
+        },
+        {
+            "question": "What is the name of George's convict girlfriend?",
+            "correct_answer": "Celia",
+            "incorrect_answers": [
+                "Tara",
+                "Susan",
+                "Audrey"
+            ]
+        },
+        {
+            "question": "Who leaves a smell in Jerry's car?",
+            "correct_answer": "Valet",
+            "incorrect_answers": [
+                "Puddy",
+                "Newman",
+                "Kramer"
+            ]
+        },
+        {
+            "question": "Which company is Kramer striking against in episode 166?",
+            "correct_answer": "H and H Bagels",
+            "incorrect_answers": [
+                "Kenny Rogers Roasters",
+                "Bagel Hut",
+                "Central Perk"
+            ]
+        },
+        {
+            "question": "What famous actress plays Jerry's wife in order to get a discount on dry cleaning?",
+            "correct_answer": "Courtney Cox",
+            "incorrect_answers": [
+                "Lori Loughlin",
+                "Kathy Griffin",
+                "Teri Hatcher"
+            ]
+        },
+        {
+            "question": "What caused major problems on Kramer's stretch of adopted highway?",
+            "correct_answer": "Kramer painted over the lines to widen the lanes",
+            "incorrect_answers": [
+                "Kramer parked on the median strip",
+                "Kramer left the litter on the median strip",
+                "Kramer never took care of it"
+            ]
+        },
+        {
+            "question": "What is Jerry Seinfeld's birthday?",
+            "correct_answer": "April 29, 1954",
+            "incorrect_answers": [
+                "May 28, 1953",
+                "April 29, 1953",
+                "March 28, 1954"
+            ]
+        },
+        {
+            "question": "What is the name of Noreen's \"high-talker\" boyfriend?",
+            "correct_answer": "Dan",
+            "incorrect_answers": [
+                "Joe",
+                "Drake",
+                "Dave"
+            ]
+        },
+        {
+            "question": "Jerry described one of Elaine's boyfriends as \"a male bimbo, he's a mimbo\". What was his name?",
+            "correct_answer": "Tony",
+            "incorrect_answers": [
+                "Puddy",
+                "Tim",
+                "Todd"
+            ]
+        },
+        {
+            "question": "What was the name of the \"low-talker\" who designed the puffy shirt that Jerry unknowingly agreed to wear on the Today Show?",
+            "correct_answer": "Leslie",
+            "incorrect_answers": [
+                "Lisi",
+                "Lily",
+                "Lanette"
+            ]
+        },
+        {
+            "question": "In the first episode, what kind of greeting does Jerry get from the girl he was meeting at the airport?",
+            "correct_answer": "The surprise blindfold greeting",
+            "incorrect_answers": [
+                "A hug",
+                "The handshake sandwich greeting",
+                "A kiss on the cheek"
+            ]
+        },
+        {
+            "question": "Who said \"Climbers keepers\"?",
+            "correct_answer": "Newman",
+            "incorrect_answers": [
+                "Frank Costanza",
+                "Puddy",
+                "George Steinbrenner"
+            ]
+        },
+        {
+            "question": "What kind of pasta was Kramer going to make a George figurine out of?",
+            "correct_answer": "Ravioli",
+            "incorrect_answers": [
+                "Rigatoni",
+                "Elbow",
+                "Penne"
+            ]
+        },
+        {
+            "question": "What was the name of the bad tennis player who sold Jerry a racket?",
+            "correct_answer": "Milos",
+            "incorrect_answers": [
+                "Miguel",
+                "Fernando",
+                "Dmitri"
+            ]
+        },
+        {
+            "question": "What was the name of the video store guy that Elaine liked?",
+            "correct_answer": "Vincent",
+            "incorrect_answers": [
+                "Vito",
+                "David",
+                "Gene"
+            ]
+        },
+        {
+            "question": "Jerry's parents live in what retirement complex?",
+            "correct_answer": "Del Boca Vista",
+            "incorrect_answers": [
+                "Retirement Village of Pensacola",
+                "Del Vista Boca",
+                "Pensacola Retirement Village"
+            ]
+        },
+        {
+            "question": "What hat does Elaine choose to put on the cover of the J Peterman catalog?",
+            "correct_answer": "The Urban Sombrero",
+            "incorrect_answers": [
+                "Santa Fe Cardigan",
+                "Hamptons Classic Shawl",
+                "Casual Low Pump Sandal"
+            ]
+        },
+        {
+            "question": "What brand of golf ball does George pull out of the whale's blow hole?",
+            "correct_answer": "Titleist",
+            "incorrect_answers": [
+                "Srixon",
+                "Nike",
+                "Callaway"
+            ]
+        },
+        {
+            "question": "What are the names of the hostile male couple that confront Kramer in \"The Soup Nazi\"?",
+            "correct_answer": "Bob and Ray",
+            "incorrect_answers": [
+                "Bob and Cedric",
+                "Bill and Ray",
+                "Bill and Cedric"
+            ]
+        }
+    ]
+}
